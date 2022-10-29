@@ -1,0 +1,29 @@
+{ 
+  "version": "1.0.0",
+  "name": "Long Division",
+  "description": "Teaching long division",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/icon16x16.png",
+    "48": "/icons/icon48x48.png",
+    "60": "/icons/icon60x60.png",
+    "128": "/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Tari",
+    "url" : "http://light299.xyz"
+  },
+  "locales":{
+    "en-US":{
+    	"name": "Long Dvision",
+    	"subtitle": "How to do long division",
+    	"description": "A simple way to master long Division"
+    }
+
+  },
+  "default_locale": "en-US",
+  "cursor": true,
+  "ime_default_softkey_bar": true ,
+  "categories" :["games","book/reference"]
+}
